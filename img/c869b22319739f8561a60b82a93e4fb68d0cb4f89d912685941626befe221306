@@ -1,0 +1,50 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="12.9ex" height="3.343ex" style="vertical-align: -1.171ex;" viewBox="0 -934.9 5554.3 1439.2" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">\color{#34a853}{6)借助悲观锁}</title>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<path stroke-width="1" d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z"></path>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(500,0)">
+<path stroke-width="1" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(890,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">借</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(1822,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">助</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(2755,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">悲</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(3688,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">观</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(4621,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">锁</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

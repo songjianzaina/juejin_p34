@@ -1,0 +1,132 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="38.664ex" height="3.343ex" style="vertical-align: -1.171ex;" viewBox="0 -934.9 16647 1439.2" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">\color{#34a853}{1)前端js提交禁止按钮   可以用一些js组件}</title>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<path stroke-width="1" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(500,0)">
+<path stroke-width="1" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(890,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">前</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(1822,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">端</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(2755,0)">
+<path stroke-width="1" d="M297 596Q297 627 318 644T361 661Q378 661 389 651T403 623Q403 595 384 576T340 557Q322 557 310 567T297 596ZM288 376Q288 405 262 405Q240 405 220 393T185 362T161 325T144 293L137 279Q135 278 121 278H107Q101 284 101 286T105 299Q126 348 164 391T252 441Q253 441 260 441T272 442Q296 441 316 432Q341 418 354 401T367 348V332L318 133Q267 -67 264 -75Q246 -125 194 -164T75 -204Q25 -204 7 -183T-12 -137Q-12 -110 7 -91T53 -71Q70 -71 82 -81T95 -112Q95 -148 63 -167Q69 -168 77 -168Q111 -168 139 -140T182 -74L193 -32Q204 11 219 72T251 197T278 308T289 365Q289 372 288 376Z"></path>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(3168,0)">
+<path stroke-width="1" d="M131 289Q131 321 147 354T203 415T300 442Q362 442 390 415T419 355Q419 323 402 308T364 292Q351 292 340 300T328 326Q328 342 337 354T354 372T367 378Q368 378 368 379Q368 382 361 388T336 399T297 405Q249 405 227 379T204 326Q204 301 223 291T278 274T330 259Q396 230 396 163Q396 135 385 107T352 51T289 7T195 -10Q118 -10 86 19T53 87Q53 126 74 143T118 160Q133 160 146 151T160 120Q160 94 142 76T111 58Q109 57 108 57T107 55Q108 52 115 47T146 34T201 27Q237 27 263 38T301 66T318 97T323 122Q323 150 302 164T254 181T195 196T148 231Q131 256 131 289Z"></path>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(3637,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">提</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(4570,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">交</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(5503,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">禁</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(6436,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">止</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(7369,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">按</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(8302,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">钮</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(9234,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">可</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(10167,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">以</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(11100,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">用</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(12033,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">一</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(12966,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">些</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(13899,0)">
+<path stroke-width="1" d="M297 596Q297 627 318 644T361 661Q378 661 389 651T403 623Q403 595 384 576T340 557Q322 557 310 567T297 596ZM288 376Q288 405 262 405Q240 405 220 393T185 362T161 325T144 293L137 279Q135 278 121 278H107Q101 284 101 286T105 299Q126 348 164 391T252 441Q253 441 260 441T272 442Q296 441 316 432Q341 418 354 401T367 348V332L318 133Q267 -67 264 -75Q246 -125 194 -164T75 -204Q25 -204 7 -183T-12 -137Q-12 -110 7 -91T53 -71Q70 -71 82 -81T95 -112Q95 -148 63 -167Q69 -168 77 -168Q111 -168 139 -140T182 -74L193 -32Q204 11 219 72T251 197T278 308T289 365Q289 372 288 376Z"></path>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(14311,0)">
+<path stroke-width="1" d="M131 289Q131 321 147 354T203 415T300 442Q362 442 390 415T419 355Q419 323 402 308T364 292Q351 292 340 300T328 326Q328 342 337 354T354 372T367 378Q368 378 368 379Q368 382 361 388T336 399T297 405Q249 405 227 379T204 326Q204 301 223 291T278 274T330 259Q396 230 396 163Q396 135 385 107T352 51T289 7T195 -10Q118 -10 86 19T53 87Q53 126 74 143T118 160Q133 160 146 151T160 120Q160 94 142 76T111 58Q109 57 108 57T107 55Q108 52 115 47T146 34T201 27Q237 27 263 38T301 66T318 97T323 122Q323 150 302 164T254 181T195 196T148 231Q131 256 131 289Z"></path>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(14781,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">组</text>
+</g>
+</g>
+</g>
+<g fill="#34a853" stroke="#34a853" transform="translate(15714,0)">
+<g fill="#34a853" stroke="#34a853">
+<g fill="#34a853" stroke="#34a853">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">件</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
